@@ -8,7 +8,7 @@ return {
 	homepage = "https://github.com/natnat-mc/lit-lsqlite3",
 	dependencies = {},
 	files = {
-		"**.lua",
+		"init.lua",
 		"built/$OS-$ARCH/*"
 	}
 }
